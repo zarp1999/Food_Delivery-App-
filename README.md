@@ -8,7 +8,6 @@ UI of Food Delivery app. Developed using Flutter
 Work through this YouTube tutorial:
 
 - Part 1: https://youtu.be/CBiXxOQSK5o
-- Part 2: not finished yet but link is (https://youtu.be/ZQCBcqOu9Jw)
 
 
 ## Getting Started
