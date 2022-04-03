@@ -1,6 +1,15 @@
-# food_delivery_app
+# The Job Finder UI
 
-A new Flutter project.
+UI of Food Delivery app. Developed using Flutter
+
+## 📱 Screen Shots
+<img src="https://user-images.githubusercontent.com/88416263/161431850-af142590-5227-478b-875e-6c92c3f8e739.png" width=180>  <img src="https://user-images.githubusercontent.com/88416263/161431846-945d4198-51ab-4653-a1e1-c25188675c86.png" width=180>  
+
+Work through this YouTube tutorial:
+
+- Part 1: https://youtu.be/CBiXxOQSK5o
+- Part 2: not finished yet but link is (https://youtu.be/ZQCBcqOu9Jw)
+
 
 ## Getting Started
 
