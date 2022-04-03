@@ -1,4 +1,4 @@
-# The Job Finder UI
+# The Food Delivery app UI
 
 UI of Food Delivery app. Developed using Flutter
 
