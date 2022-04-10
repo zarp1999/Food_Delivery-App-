@@ -29,16 +29,16 @@ class Food {
               'Noodle': 'assets/images/ingre1.png',
             },
             {
-              'Shrimp': 'assets/imaages/ingre2.png',
+              'Shrimp': 'assets/images/ingre2.png',
             },
             {
-              'Egg': 'aseets/images/ingre3.png',
+              'Egg': 'assets/images/ingre3.png',
             },
             {
-              'Scallion': 'aseets/images/ingre4.png',
+              'Scallion': 'assets/images/ingre4.png',
             }
           ],
-          'Simply put, ramen is a Japanese noode soup',
+          'Simply put, ramen is a Japanese noode soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.',
           hightLight: true),
       Food(
         'assets/images/dish2.png',
@@ -54,16 +54,16 @@ class Food {
             'Noodle': 'assets/images/ingre1.png',
           },
           {
-            'Shrimp': 'assets/imaages/ingre2.png',
+            'Shrimp': 'assets/images/ingre2.png',
           },
           {
-            'Egg': 'aseets/images/ingre3.png',
+            'Egg': 'assets/images/ingre3.png',
           },
           {
-            'Scallion': 'aseets/images/ingre4.png',
+            'Scallion': 'assets/images/ingre4.png',
           }
         ],
-        'Simply put, ramen is a Japanese noodle soup',
+        'Simply put, ramen is a Japanese noode soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.',
       ),
       Food(
         'assets/images/dish3.png',
@@ -79,16 +79,16 @@ class Food {
             'Noodle': 'assets/images/ingre1.png',
           },
           {
-            'Shrimp': 'assets/imaages/ingre2.png',
+            'Shrimp': 'assets/images/ingre2.png',
           },
           {
-            'Egg': 'aseets/images/ingre3.png',
+            'Egg': 'assets/images/ingre3.png',
           },
           {
-            'Scallion': 'aseets/images/ingre4.png',
+            'Scallion': 'assets/images/ingre4.png',
           }
         ],
-        'Simply put, ramen is a Japanese noodle soup',
+        'Simply put, ramen is a Japanese noode soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.',
       ),
     ];
   }
@@ -109,16 +109,16 @@ class Food {
             'Noodle': 'assets/images/ingre1.png',
           },
           {
-            'Shrimp': 'assets/imaages/ingre2.png',
+            'Shrimp': 'assets/images/ingre2.png',
           },
           {
-            'Egg': 'aseets/images/ingre3.png',
+            'Egg': 'assets/images/ingre3.png',
           },
           {
-            'Scallion': 'aseets/images/ingre4.png',
+            'Scallion': 'assets/images/ingre4.png',
           }
         ],
-        'Simply put, ramen is a Japanese noodle soup',
+        'Simply put, ramen is a Japanese noode soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.',
       ),
     ];
   }
